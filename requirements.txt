@@ -8,3 +8,8 @@ jupyter
 ipython
 flake8
 pytest
+seaborn 
+xgboost 
+shap 
+joblib 
+statsmodels
