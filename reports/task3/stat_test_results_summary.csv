@@ -1,0 +1,7 @@
+province_freq_chi2,"{'chi2': np.float64(104.19088107029361), 'p': np.float64(5.925510718204678e-19), 'dof': 8}"
+province_severity_kruskal,"{'H': np.float64(106.09273218457658), 'p': np.float64(2.4146571363417815e-19)}"
+zip_freq_chi2_top10,"{'chi2': np.float64(72.64941061601782), 'p': np.float64(4.5932778849314244e-12), 'dof': 9}"
+zip_severity_kruskal_top10,"{'H': np.float64(41.42776403005402), 'p': np.float64(4.180343851689326e-06)}"
+zip_margin_kruskal_top10,"{'H': np.float64(4931.140268152575), 'p': np.float64(0.0)}"
+gender_freq_chi2,"{'chi2': np.float64(7.255926312995721), 'p': np.float64(0.026570248768437145), 'dof': 2}"
+gender_severity_mwu,"{'U': np.float64(138381.5), 'p': np.float64(0.08472522524430522), 'genders': ['Not specified', 'Male', 'Female']}"
