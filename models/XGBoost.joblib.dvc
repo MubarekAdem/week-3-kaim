@@ -1,0 +1,5 @@
+outs:
+- md5: dde041367c8b3a92c9fda8072b834ffe
+  size: 240153
+  hash: md5
+  path: XGBoost.joblib
